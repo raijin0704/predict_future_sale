@@ -1,0 +1,15 @@
+**desktop.ini
+**pycache__**
+**.vscode
+**.ipynb_checkpoints
+
+data_for_kernel/**
+data_for_lstm/**
+code/other/output/**
+
+model/**
+# !/model/0714174946all133232**
+result/**
+# !result/submit/
+
+!**0714174946all133232**
